@@ -29,4 +29,4 @@ I’m passionate about building real-world tech, solving problems, and exploring
 🔗 [LinkedIn](https://www.linkedin.com/in/rajath-gopalakrishna-2193a4323/)  
 🔗 [GitHub](https://github.com/Rj-og)
 
-> ✨ Let’s connect and collaborate!
+
