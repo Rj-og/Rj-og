@@ -26,7 +26,7 @@ I’m passionate about building real-world tech, solving problems, and exploring
 - Apply for internships in Web Dev, Software Engineering, or AIML fields  
 - Continuously level up my Git + GitHub workflow  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rajath-gopalakrishna-2193a4323/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajath-g-2193a4323/)  
 🔗 [GitHub](https://github.com/Rj-og)
 
 
