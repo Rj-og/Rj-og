@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Rajath!
+# Hi there  I'm Rajath!
 
-🎓 I'm a 2nd year B.Tech Artificial Intelligence & Machine Learning student at PES University.  
+ I'm a 2nd year B.Tech Artificial Intelligence & Machine Learning student at PES University.  
 I’m passionate about building real-world tech, solving problems, and exploring the intersection of software development and AI.
 
-## 💡 Core Skills & Subjects
+ Core Skills & Subjects
 - **Programming Languages:** C, Python, HTML, CSS, JavaScript, React (Frontend)
 - **Strong Knowledge In:**  
   - Data Structures and its Applications  
@@ -15,13 +15,13 @@ I’m passionate about building real-world tech, solving problems, and exploring
   - Digital Design and Computer Organization  
   - Automata, Formal Languages and Logic
 
-## 🚀 Currently Exploring
+ Currently Exploring
 - Full-stack web development
 - System-level programming
 - Real-time application projects
 - Preparing for internships and open-source contributions
 
-## 📌 Goals
+ Goals
 - Build solid, resume-worthy projects 💻  
 - Apply for internships in Web Dev, Software Engineering, or AIML fields  
 - Continuously level up my Git + GitHub workflow  
