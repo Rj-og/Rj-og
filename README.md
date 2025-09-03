@@ -1,6 +1,6 @@
 # Hi there  I'm Rajath!
 
- I'm a 2nd year B.Tech Artificial Intelligence & Machine Learning student at PES University.  
+ I'm a 3rd year B.Tech Artificial Intelligence & Machine Learning student at PES University.  
 I’m passionate about building real-world tech, solving problems, and exploring the intersection of software development and AI.
 
  Core Skills & Subjects
