@@ -22,7 +22,7 @@ I’m passionate about building real-world tech, solving problems, and exploring
 - Preparing for internships and open-source contributions
 
  Goals
-- Build solid, resume-worthy projects 💻  
+- Build solid, resume-worthy projects   
 - Apply for internships in Web Dev, Software Engineering, or AIML fields  
 - Continuously level up my Git + GitHub workflow  
 
